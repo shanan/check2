@@ -1,3 +1,1 @@
-# check2 t
-Test  2
-test  t dfd
+Go to [about page](about.md)
